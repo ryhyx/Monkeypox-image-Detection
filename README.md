@@ -1,4 +1,4 @@
-# mpox
+# Monkeypox image detection
 Diagnosis of monkey pox disease based on computer vision using images of skin lesions: a comparative study
 To load the file in Google colab, you need to register your mobile number on the site
 https://www.kaggle.com/
